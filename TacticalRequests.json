@@ -1,0 +1,22 @@
+{
+  "id": "TacticalRequests",
+  "name": "战术请求 Tactical Requests",
+  "author": "Wangy-szu",
+  "description": "Team request wheels, contextual text chat with incoming sounds, teammate card details and optional QuickSL integration. All peers need the same version.",
+  "version": "0.6.25",
+  "min_game_version": "0.111.0",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": true
+}
+
+
+
+
+
+
+
+
+
+

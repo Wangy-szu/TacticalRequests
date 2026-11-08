@@ -1,0 +1,22 @@
+bin/
+obj/
+artifacts/
+dist/
+tests/bin/
+tests/obj/
+tests/runtime/bin/
+tests/runtime/obj/
+
+# 本机审查材料及依赖旧项目的隔离测试
+/EVALUATION.md
+/VALIDATION.md
+/SOURCE-AUDIT.md
+/tests/runtime/
+/tests/Invoke-*.ps1
+
+# 本机配置与认证文件
+.env
+.env.*
+*.pfx
+*.pem
+*.key
